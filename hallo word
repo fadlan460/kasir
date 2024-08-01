@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <cs50.h>
+//fadlan nur arifin sudah di cek pak moko
+int main(void)
+{
+  string name = get_string("what's your name? ");
+
+printf("hello, %s\n", name);
+
+}
