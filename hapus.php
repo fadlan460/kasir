@@ -1,6 +1,6 @@
 <?php
 session_start(); // Memulai sesi PHP untuk menggunakan variabel session
-
+//fadlan nur arifin sudah di cek pak moko
 include "koneksi.php"; // Menyertakan file koneksi.php yang berisi kode untuk menghubungkan ke database
 // Mengecek apakah form telah disubmit
 if (isset($_POST['submit'])) {
